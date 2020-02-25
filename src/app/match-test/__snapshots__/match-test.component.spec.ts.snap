@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MatchTestComponent should test against snapshot 1`] = `
+<app-match-test>
+  <p>
+    match-test works!
+  </p>
+</app-match-test>
+`;
